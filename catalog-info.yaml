@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gh-package-poc
+  annotations:
+    github.com/project-slug: mhaley37/gh-package-poc
+spec:
+  type: other
+  lifecycle: unknown
+  owner: mhaley37
